@@ -1,0 +1,21 @@
+li {
+    height: 60px;
+}
+
+.badge {
+    display: inline-block;
+    background-color: blue;
+    opacity: 0.4;
+    font-weight: bold;
+    width: 40px;
+    height: 40px;
+}
+
+.badge-main {
+    height: 89px;
+}
+
+.selected .badge {
+    background-color: red;
+}
+
